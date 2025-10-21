@@ -59,16 +59,6 @@ npm test
 - **Vercel**: `vercel --prod`
 - **Build**: `npm run build`
 
-## 👥 Team Tasks
-- [ ] User profile page
-- [ ] Order history page
-- [ ] Advanced search & filters
-- [ ] Product detail enhancements
-- [ ] Mobile optimization
-- [ ] Testing setup
-
-## 📞 Backend Repository
-https://github.com/YOUR_USERNAME/gemcart-backend
 
 ## 🎯 Test Account
 - **Email**: seller@gemcart.com
